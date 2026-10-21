@@ -1,0 +1,68 @@
+        body {
+            background-color: rgb(255, 255, 255);
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+            color: rgb(255, 255, 255);
+            font-size: 32px;
+        }
+
+        #glossyblue {
+            margin: auto;
+            
+            background: linear-gradient(#88C9F5 0%, #2090DC 45%, #0F75B8 55%, #3C91CB 100%);
+            
+            padding: 20px;
+            width: fit-content;
+            height: fit-content;
+
+            border: 2px, #0F75B8 solid;
+            border-radius: 12px;
+            
+        }
+
+        #glossywhite {
+            margin: auto;
+            
+            color: rgb(0, 0, 0);
+            background: linear-gradient(#fdfdfd 0%, #c2c2c2 45%, #adadad 55%, #c5c5c5 100%);
+            
+            padding: 20px;
+            width: fit-content;
+            height: fit-content;
+
+            border: 2px, #adadad solid;
+            border-radius: 12px;
+            
+        }
+
+        a {
+            margin: auto;
+            
+            background: linear-gradient(#88C9F5 0%, #2090DC 45%, #0F75B8 55%, #3C91CB 100%);
+            
+            padding: 20px;
+            width: fit-content;
+            height: fit-content;
+
+            border: 2px, #0F75B8 solid;
+            border-radius: 12px;
+
+            text-decoration: none;
+            color: rgb(255, 255, 255);
+        }
+
+        a:hover {
+            margin: auto;
+            
+            background: linear-gradient(#619dc5 0%, #0c67a3 45%, #03558b 55%, #236794 100%);
+            
+            padding: 20px;
+            width: fit-content;
+            height: fit-content;
+
+            border: 2px, #0F75B8 solid;
+            border-radius: 12px;
+
+            text-decoration: none;
+            color: rgb(255, 255, 255);
+        }
