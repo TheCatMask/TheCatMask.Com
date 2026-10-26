@@ -1,68 +1,87 @@
-        body {
-            background-color: rgb(255, 255, 255);
-            font-family: Arial, Helvetica, sans-serif;
-            text-align: center;
-            color: rgb(255, 255, 255);
-            font-size: 32px;
-        }
-
-        #glossyblue {
-            margin: auto;
+ 
+ 
+ 
+body {
+    background: linear-gradient(to right, #f8fafc, #e2e8f0)
             
-            background: linear-gradient(#88C9F5 0%, #2090DC 45%, #0F75B8 55%, #3C91CB 100%);
-            
-            padding: 20px;
-            width: fit-content;
-            height: fit-content;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+}
 
-            border: 2px, #0F75B8 solid;
-            border-radius: 12px;
+#glossyblue {
+    margin: auto;
             
-        }
-
-        #glossywhite {
-            margin: auto;
+    background: linear-gradient(#88C9F5 0%, #2090DC 45%, #0F75B8 55%, #3C91CB 100%);
             
-            color: rgb(0, 0, 0);
-            background: linear-gradient(#fdfdfd 0%, #c2c2c2 45%, #adadad 55%, #c5c5c5 100%);
+    padding: 20px;
+    width: fit-content;
+    height: fit-content;
+
+    border: 2px, #0F75B8 solid;
+    border-radius: 12px;
             
-            padding: 20px;
-            width: fit-content;
-            height: fit-content;
+}
 
-            border: 2px, #adadad solid;
-            border-radius: 12px;
+#glossyred {
+    margin: auto;
             
-        }
-
-        a {
-            margin: auto;
+    background: linear-gradient(#f58888 0%, #dc2020 45%, #b81a0f 55%, #cb3c3c 100%);
             
-            background: linear-gradient(#88C9F5 0%, #2090DC 45%, #0F75B8 55%, #3C91CB 100%);
+    padding: 20px;
+    width: fit-content;
+    height: fit-content;
+
+    border: 2px, #b80f0f solid;
+    border-radius: 12px;
             
-            padding: 20px;
-            width: fit-content;
-            height: fit-content;
+}
 
-            border: 2px, #0F75B8 solid;
-            border-radius: 12px;
 
-            text-decoration: none;
-            color: rgb(255, 255, 255);
-        }
-
-        a:hover {
-            margin: auto;
+#glossywhite {
+    margin: auto;
             
-            background: linear-gradient(#619dc5 0%, #0c67a3 45%, #03558b 55%, #236794 100%);
+    color: rgb(0, 0, 0);
+    background: linear-gradient(#fdfdfd 0%, #c2c2c2 45%, #adadad 55%, #c5c5c5 100%);
             
-            padding: 20px;
-            width: fit-content;
-            height: fit-content;
+    padding: 20px;
+    width: fit-content;
+    height: fit-content;
 
-            border: 2px, #0F75B8 solid;
-            border-radius: 12px;
+    border: 2px, #adadad solid;
+    border-radius: 12px;
+            
+}
 
-            text-decoration: none;
-            color: rgb(255, 255, 255);
-        }
+a {
+    margin: auto;
+            
+    background: linear-gradient(#88C9F5 0%, #2090DC 45%, #0F75B8 55%, #3C91CB 100%);
+            
+    padding: 20px;
+    width: fit-content;
+    height: fit-content;
+
+    border: 2px, #0F75B8 solid;
+    border-radius: 12px;
+
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+a:hover {
+    margin: auto;
+            
+    background: linear-gradient(#619dc5 0%, #0c67a3 45%, #03558b 55%, #236794 100%);
+            
+    padding: 20px;
+    width: fit-content;
+    height: fit-content;
+
+    border: 2px, #0F75B8 solid;
+    border-radius: 12px;
+
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
